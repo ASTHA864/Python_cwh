@@ -1,0 +1,6 @@
+#Q1. Write a program to find remainder.
+
+num1=int(input("Enter first number:"))
+num2=int(input("Enter second number:"))
+sum=num1%num2
+print("Remainder is:",sum)
