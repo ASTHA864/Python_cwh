@@ -9,4 +9,4 @@ print(jokes)
 # git init
 # git add .
 # git commit -m "commit"
-# git push -u https://github.com/ASTHA864/Python.git
+# git push -u https://github.com/ASTHA864/Python_cwh
